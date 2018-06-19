@@ -1,3 +1,5 @@
+import getBoard from './getBoard'
 import getPlayer from './getPlayer'
+import getWins from './getWins'
 
-export { getPlayer }
+export { getBoard, getPlayer, getWins }
